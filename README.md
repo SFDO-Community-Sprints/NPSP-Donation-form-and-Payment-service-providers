@@ -1,6 +1,6 @@
 __Repository name:__ 
 NPSP-Donation-form-and-Payment-service-providers<br>
-__Description:__ 
+<pre>__Description:__ </pre>
 <pre>Problem definition:</pre>
 
 <pre>1.The challenge of creating the donation form and the expense of creating and integrating it.</pre>
