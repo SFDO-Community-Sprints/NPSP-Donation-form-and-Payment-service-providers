@@ -12,4 +12,4 @@ __Description:__ </pre>
 <pre>b.Leverage SF platform to create replicable data import utility for standardized payment processor data extracts in XML, csv or MS excel EG: This eliminates the cost of integration tools by allowing the NPSP to extract and control the data extracts in the various formats.</pre>
 <pre>c.Create a series of publicly meaning community owned data maps from common payment processing tools from NPSP to use and configuring the existing batch import tools in NPSP.</pre>
 
-![Image](https://github.com/SFDO-Sprint-2019-Amsterdam/NPSP-Donation-form-and-Payment-service-providers/blob/master/Diagram basic donation form NPSP.png?raw=true)
+![Image](Diagram basic donation form NPSP.png?raw=true)
